@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "device_id": "poco-f5-a5138b96",
+  "brand": "POCO",
+  "model": "F5",
+  "fields": {
+    "screen_inches": {
+      "value": "6.67",
+      "source_url": "https://www.mi.com/global/product/poco-f5/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "display_width_px": {
+      "value": "1080",
+      "source_url": "https://www.mi.com/global/product/poco-f5/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "display_height_px": {
+      "value": "2400",
+      "source_url": "https://www.mi.com/global/product/poco-f5/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "max_refresh_hz": {
+      "value": "120",
+      "source_url": "https://www.mi.com/global/product/poco-f5/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "touch_sampling_hz": {
+      "value": "240",
+      "source_url": "https://www.mi.com/global/product/poco-f5/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "battery_mah": {
+      "value": "5000",
+      "source_url": "https://www.mi.com/global/product/poco-f5/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    }
+  }
+}
