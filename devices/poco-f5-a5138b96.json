@@ -33,6 +33,24 @@
       "value": "5000",
       "source_url": "https://www.mi.com/global/product/poco-f5/specs/",
       "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "gpu": {
+      "value": "Qualcomm Adreno GPU",
+      "source_url": "https://www.mi.com/global/product/poco-f5/specs/",
+      "license": "OEM-PUBLIC-REFERENCE",
+      "scope": "model_wide"
+    },
+    "gyro_sensor_present": {
+      "value": "true",
+      "source_url": "https://www.mi.com/global/support/faq/details/KA-13661/",
+      "license": "OEM-PUBLIC-REFERENCE",
+      "scope": "model_wide"
+    },
+    "ram_options_gb": {
+      "value": "8,12",
+      "source_url": "https://www.mi.com/global/product/poco-f5/specs/",
+      "license": "OEM-PUBLIC-REFERENCE",
+      "scope": "model_wide"
     }
   }
 }
