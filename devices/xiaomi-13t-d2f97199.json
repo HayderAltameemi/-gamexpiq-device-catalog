@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "device_id": "xiaomi-13t-d2f97199",
+  "brand": "Xiaomi",
+  "model": "13T",
+  "fields": {
+    "display_width_px": {
+      "value": "1220",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13t-leica/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "display_height_px": {
+      "value": "2712",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13t-leica/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "screen_inches": {
+      "value": "6.67",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13t-leica/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "display_ppi": {
+      "value": "446",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13t-leica/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "max_refresh_hz": {
+      "value": "144",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13t-leica/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "battery_mah": {
+      "value": "5000",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13t-leica/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "touch_sampling_hz": {
+      "value": "480",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13t-leica/specs/",
+      "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "gyro_sensor_present": {
+      "value": "true",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13t-leica/specs/",
+      "license": "OEM-PUBLIC-REFERENCE",
+      "scope": "model_wide"
+    }
+  }
+}

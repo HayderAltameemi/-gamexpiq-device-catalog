@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "device_id": "xiaomi-14t-pro-23c6ee21",
+  "brand": "Xiaomi",
+  "model": "14T Pro",
+  "fields": {
+    "screen_inches": {
+      "value": "6.67",
+      "source_url": "https://www.mi.com/uk/discover/article?id=4247",
+      "license": "OEM-PUBLIC-REFERENCE"
+    }
+  }
+}
