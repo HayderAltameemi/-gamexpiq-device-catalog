@@ -1,0 +1,4 @@
+device_id,field_name,value,source_url,license,reviewed,model_code,review_note
+xiaomi-13t-d2f97199,ram_options_gb,"8,12",https://www.mi.com/global/product/xiaomi-13t-leica/specs/,OEM-PUBLIC-REFERENCE,yes,,Xiaomi global specification lists 8GB and 12GB configurations; no single RAM value inferred
+xiaomi-13t-pro-e1b24b9b,ram_options_gb,"12,16",https://www.mi.com/global/product/xiaomi-13t-pro-leica/specs/,OEM-PUBLIC-REFERENCE,yes,,Xiaomi global specification lists 12GB and 16GB configurations; no single RAM value inferred
+xiaomi-14t-pro-23c6ee21,ram_options_gb,12,https://www.mi.com/global/product/xiaomi-14t-pro/specs/,OEM-PUBLIC-REFERENCE,yes,,Xiaomi global specification lists 12GB physical RAM; Ultra Space is not physical RAM

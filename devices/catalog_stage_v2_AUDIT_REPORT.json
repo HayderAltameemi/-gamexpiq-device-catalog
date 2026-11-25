@@ -1,0 +1,49 @@
+{
+  "summary": {
+    "status": "PASS_REVIEW_GATE",
+    "existing_devices": 4,
+    "output_devices": 4,
+    "new_fields": 3,
+    "unchanged_rows": 0,
+    "rejected_rows": 0,
+    "fields_total": 29,
+    "limitations": [
+      "Source contents and redistribution rights require human verification",
+      "GPU/SOC/RAM fields require exact seed SKU matches",
+      "gyro_sensor_present and ram_options_gb are supplemental, not 8-core fields",
+      "This does not verify PUBG FPS or upload files to GitHub"
+    ]
+  },
+  "additions": [
+    {
+      "device_id": "xiaomi-13t-d2f97199",
+      "field": "ram_options_gb",
+      "value": "8,12",
+      "note": "Xiaomi global specification lists 8GB and 12GB configurations; no single RAM value inferred",
+      "app_consumes_field": false
+    },
+    {
+      "device_id": "xiaomi-13t-pro-e1b24b9b",
+      "field": "ram_options_gb",
+      "value": "12,16",
+      "note": "Xiaomi global specification lists 12GB and 16GB configurations; no single RAM value inferred",
+      "app_consumes_field": false
+    },
+    {
+      "device_id": "xiaomi-14t-pro-23c6ee21",
+      "field": "ram_options_gb",
+      "value": "12",
+      "note": "Xiaomi global specification lists 12GB physical RAM; Ultra Space is not physical RAM",
+      "app_consumes_field": false
+    }
+  ],
+  "unchanged": [],
+  "sha256": {
+    "devices/poco-f5-a5138b96.json": "6e78f67e529eecb1114fc2c72195e8f1a816e38b4790c00210f05ba0cdc88bfa",
+    "devices/xiaomi-13t-d2f97199.json": "1a223ddf0fcd64624cc634d6ead6b631e1527b8079c40329619713f2027885b4",
+    "devices/xiaomi-13t-pro-e1b24b9b.json": "b27ca97bfbaa9c20af1d7f9f93bc70636c4ca2a6ce1313920a1207885a885411",
+    "devices/xiaomi-14t-pro-23c6ee21.json": "237e44fd23c4c00985f9f75bfd2dc9f54f9ab88bf99524bba107ac38dd513aa8",
+    "index.json": "fbf7a9f44148725c01a7a717112349dca668b091d74564262a001a3aadbd8c3c"
+  },
+  "review_required_before_upload": true
+}
