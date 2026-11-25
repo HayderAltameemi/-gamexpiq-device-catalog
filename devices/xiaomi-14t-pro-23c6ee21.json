@@ -8,6 +8,12 @@
       "value": "6.67",
       "source_url": "https://www.mi.com/uk/discover/article?id=4247",
       "license": "OEM-PUBLIC-REFERENCE"
+    },
+    "ram_options_gb": {
+      "value": "12",
+      "source_url": "https://www.mi.com/global/product/xiaomi-14t-pro/specs/",
+      "license": "OEM-PUBLIC-REFERENCE",
+      "scope": "model_wide"
     }
   }
 }

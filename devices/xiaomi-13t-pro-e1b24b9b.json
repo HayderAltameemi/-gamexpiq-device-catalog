@@ -44,6 +44,12 @@
       "source_url": "https://www.mi.com/global/product/xiaomi-13t-pro-leica/specs/",
       "license": "OEM-PUBLIC-REFERENCE",
       "scope": "model_wide"
+    },
+    "ram_options_gb": {
+      "value": "12,16",
+      "source_url": "https://www.mi.com/global/product/xiaomi-13t-pro-leica/specs/",
+      "license": "OEM-PUBLIC-REFERENCE",
+      "scope": "model_wide"
     }
   }
 }
