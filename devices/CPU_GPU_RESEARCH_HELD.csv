@@ -1,7 +1,0 @@
-device_id,field_name,verified_model_value,source_url,publication_status,reason
-xiaomi-13t-d2f97199,soc,Dimensity 8200-Ultra,https://www.mi.com/global/product/xiaomi-13t-leica/specs/,HOLD,Online SDK prevents SoC import without matching model_code; base seed value null
-xiaomi-13t-d2f97199,gpu,Mali-G610,https://www.mi.com/global/product/xiaomi-13t-leica/specs/,HOLD,Online SDK prevents GPU import without matching model_code; base seed value null
-xiaomi-13t-pro-e1b24b9b,soc,Dimensity 9200+,https://www.mi.com/global/product/xiaomi-13t-pro-leica/specs/,HOLD,Seed already has this SoC; online duplicate is unnecessary
-xiaomi-13t-pro-e1b24b9b,gpu,Immortalis-G715,https://www.mi.com/global/product/xiaomi-13t-pro-leica/specs/,HOLD,Online SDK prevents GPU import without matching model_code
-xiaomi-14t-pro-23c6ee21,soc,Dimensity 9300+,https://www.mi.com/global/product/xiaomi-14t-pro/specs/,HOLD,Seed already has this SoC
-xiaomi-14t-pro-23c6ee21,gpu,Immortalis-G720 MC12,https://www.mi.com/global/product/xiaomi-14t-pro/specs/,HOLD,Seed already has this GPU
